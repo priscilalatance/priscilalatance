@@ -1,7 +1,6 @@
 ### Olá! Eu sou a Priscila Latance 👋
 
 - 🔭 Hoje trabalho com back-end
-- 🌱 Estudando Testes Unitários
 - 😄 Pronouns: ela/dela
 
 <div align="center">
